@@ -2,7 +2,7 @@
 
 👀 I’m interested in Creating something cool (Design & Development)
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning Front-End
 
 💞️ I’m looking to collaborate on Developers
 
