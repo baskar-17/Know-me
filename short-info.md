@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate with Developers
 
-📫 How to reach me baskar.official@outlook.in
+📫 Send a Hi! here - baskar.official@outlook.in
 
 <!---
 baskar-17/baskar-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
