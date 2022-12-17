@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Front-End
 
-💞️ I’m looking to collaborate on Developers
+💞️ I’m looking to collaborate with Developers
 
 📫 How to reach me baskar.official@outlook.in
 
