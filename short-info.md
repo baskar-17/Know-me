@@ -2,7 +2,7 @@
 
 👀 I’m interested in Creating something cool (Design & Development)
 
-🌱 I’m currently learning Front-End
+🌱 I’m currently learning MERN stack
 
 💞️ I’m looking to collaborate with Developers
 
